@@ -6,3 +6,5 @@
 - "@opentelemetry/exporter-trace-otlp-proto"
 - "@opentelemetry/instrumentation-nestjs-core"
 - "@opentelemetry/sdk-node"
+
+After installing the necessary modules, import the file in your `main.ts` using `import './instrumentation';`
